@@ -22,13 +22,18 @@ import Counter from "@/app/_components/Counter";
 //     )
 // }
 
+export const metadata = {
+
+    title: "cabins",
+}
+
 export default function Page(){
 
 
 
     return(
         <div>  
-        <h1>cabins</h1>
+        <h1> cabins </h1>
         
    
         </div>
