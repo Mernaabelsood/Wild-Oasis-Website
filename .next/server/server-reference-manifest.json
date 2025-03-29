@@ -1,0 +1,66 @@
+{
+  "node": {
+    "3b3bd783c2031656d504f59fa107632d82ec3370": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "79e7a603ddb2e9477ba510fd840b7fe702fee5b5": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "89e5e4f4b23cd794b9f656418ab7d1c1219c54aa": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "cb17f52294023bfc5788a2ddc5e68bd6f33daea6": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "d8dcffffa537b38e1b0634666827ca69a7c31848": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "df1972f6057d4c4bb85f7d24b2a0bf4f3c634ddc": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMerna%5C%5CDesktop%5C%5Cfinal%20wild%20oasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22deleteBooking%22%2C%22signOutAction%22%2C%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "KDAsG88YEPJJ1JQPKGmFUlWXBTcUr7hIQl/aHysRAq8="
+}
