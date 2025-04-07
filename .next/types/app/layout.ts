@@ -1,4 +1,4 @@
-// File: C:\Users\Merna\Desktop\final wild oasis\app\layout.js
+// File: D:\Wild Oasis Website\Wild-Oasis-Website\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
