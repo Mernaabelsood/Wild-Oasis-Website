@@ -37,7 +37,6 @@ export async function createBooking(bookingData, formData) {
     guestId: session.user.guestId,
     numGuests: Number(formData.get("numGuests")),
     observations: formData.get("observations").slice(0, 1000),
-    extrasPrice: 0,
     totalPrice: bookingData.cabinPrice,
     isPaid: false,
     hasBreakfast: false,
@@ -46,7 +45,10 @@ export async function createBooking(bookingData, formData) {
 
   const { error } = await supabase.from("bookings").insert([newBooking]);
 
-  if (error) throw new Error("Booking could not be created");
+  if (error) {
+    console.error("Supabase booking insert error:", error);
+    throw new Error("Booking could not be created");
+  }
 
   revalidatePath(`/cabins/${bookingData.cabinId}`);
 
